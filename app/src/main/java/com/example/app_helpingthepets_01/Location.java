@@ -1,6 +1,6 @@
 package com.example.app_helpingthepets_01;
 
-public class Ubicacion {
+public class Location {
     String neighborhood;
     String fundation;
     String zone;

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340631114932",
+    "firebase_url": "https://apphelpingthepets01.firebaseio.com",
+    "project_id": "apphelpingthepets01",
+    "storage_bucket": "apphelpingthepets01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340631114932:android:6221d584c8fe6418",
+        "android_client_info": {
+          "package_name": "com.example.app_helpingthepets_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340631114932-kovrtm740ds1dohc866fhjt295bpvah9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_helpingthepets_01",
+            "certificate_hash": "c4bd4159c84986b61b205079d06280f329c1d53f"
+          }
+        },
+        {
+          "client_id": "340631114932-j0ead7kr5e9ndpqblek8v9ilfedh8hjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9SFGh4l67m6VO1ttRlcK00sHFlHl47E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340631114932-j0ead7kr5e9ndpqblek8v9ilfedh8hjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

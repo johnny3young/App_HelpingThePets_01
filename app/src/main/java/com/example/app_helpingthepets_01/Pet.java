@@ -1,6 +1,6 @@
 package com.example.app_helpingthepets_01;
 
-public class Mascota {
+public class Pet {
 
     //Atributos
     String name;
