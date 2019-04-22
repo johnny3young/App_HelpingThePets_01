@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">App_HelpingThePets_01</string>
+    <string name="app_name">Helping The Pets</string>
     <string name="login">Autenticación</string>
     <string name="username">Usuario</string>
     <string name="password">Contraseña</string>
