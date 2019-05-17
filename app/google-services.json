@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "340631114932",
-    "firebase_url": "https://apphelpingthepets01.firebaseio.com",
-    "project_id": "apphelpingthepets01",
-    "storage_bucket": "apphelpingthepets01.appspot.com"
+    "project_number": "1049188908883",
+    "firebase_url": "https://helpingthepets-fea8f.firebaseio.com",
+    "project_id": "helpingthepets-fea8f",
+    "storage_bucket": "helpingthepets-fea8f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:340631114932:android:6221d584c8fe6418",
+        "mobilesdk_app_id": "1:1049188908883:android:6221d584c8fe6418",
         "android_client_info": {
           "package_name": "com.example.app_helpingthepets_01"
         }
       },
       "oauth_client": [
         {
-          "client_id": "340631114932-kovrtm740ds1dohc866fhjt295bpvah9.apps.googleusercontent.com",
+          "client_id": "1049188908883-tdj5h9jjpf5tu3iu6t895mf4rcib0fvb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.app_helpingthepets_01",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "340631114932-j0ead7kr5e9ndpqblek8v9ilfedh8hjg.apps.googleusercontent.com",
+          "client_id": "1049188908883-illmds3g8gm4fdt59far9qq17qq69gfv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDn9SFGh4l67m6VO1ttRlcK00sHFlHl47E"
+          "current_key": "AIzaSyCMlMiCi0JTRryBwYJ1yv-7Nt2SOv0qyyc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "340631114932-j0ead7kr5e9ndpqblek8v9ilfedh8hjg.apps.googleusercontent.com",
+              "client_id": "1049188908883-illmds3g8gm4fdt59far9qq17qq69gfv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
