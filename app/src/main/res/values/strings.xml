@@ -9,6 +9,7 @@
     <string name="introduction">La aplicación Helping the Pets para Android es el lugar perfecto para comenzar si estás pensando en adoptar un perro o gato y sin duda alguna el primer lugar para publicar si has perdido a tu mejor amigo.  Cientos de usuarios se notificarán al instante que publiques que tu más fiel amigo se encuentra perdido. Si ves un animal maltratado en algún, publícalo para que toda la comunidad se ponga en acción y te ayude! Puedes adjuntar una foto y también la ubicación geográfica!   También puedes compartirlo en tu perfil de Facebook o Twitter. Busca a través de las publicaciones de animales en adopción... tal vez encuentres uno especial al que le quieras regalar una segunda oportunidad!</string>
     <string name="edtguestemail">Correo</string>
     <string name="edtguestpass">Contraseña</string>
-    <string name="facebook_app_id">402868733775620</string> <string name="fb_login_protocol_scheme">fb402868733775620</string>
+    <string name="facebook_app_id">402868733775620</string>
+    <string name="fb_login_protocol_scheme">fb402868733775620</string>
 
 </resources>
